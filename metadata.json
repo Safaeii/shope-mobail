@@ -1,0 +1,6 @@
+{
+  "name": "MobiTech Direct",
+  "description": "فروشگاه تخصصی گوشی‌های پرچمدار و لوازم جانبی با مشخصات فنی، مقایسه، سبد خرید و پشتیبانی از زبان فارسی و انگلیسی (Flagship Mobile Hub with Persian & English support)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
