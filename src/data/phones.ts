@@ -11,7 +11,7 @@ export const PHONES_DATA: Phone[] = [
     originalPrice: 1299,
     rating: 4.9,
     reviewsCount: 148,
-    image: '/src/imags/images (6).jpeg',
+  image: '/src/imags/images (6).jpeg',
     gallery: [
       'https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=800&q=80',
       'https://images.unsplash.com/photo-1695048065050-13b3e2a046c8?auto=format&fit=crop&w=800&q=80',
