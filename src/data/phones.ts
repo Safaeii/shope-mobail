@@ -11,7 +11,7 @@ export const PHONES_DATA: Phone[] = [
     originalPrice: 1299,
     rating: 4.9,
     reviewsCount: 148,
-    image: 'https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=800&q=80',
+    image: '/src/imags/images (6).jpeg',
     gallery: [
       'https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=800&q=80',
       'https://images.unsplash.com/photo-1695048065050-13b3e2a046c8?auto=format&fit=crop&w=800&q=80',
@@ -50,7 +50,7 @@ export const PHONES_DATA: Phone[] = [
     originalPrice: 1419,
     rating: 4.8,
     reviewsCount: 192,
-    image: 'https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?auto=format&fit=crop&w=800&q=80',
+    image: '/src/imags/images g.jpeg',
     gallery: [
       'https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?auto=format&fit=crop&w=800&q=80',
       'https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=800&q=80',
@@ -88,7 +88,7 @@ export const PHONES_DATA: Phone[] = [
     originalPrice: 1099,
     rating: 4.7,
     reviewsCount: 114,
-    image: 'https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80',
+    image: '/src/imags/71r0349s3cL._AC_UF1000,1000_QL80_.jpg',
     gallery: [
       'https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80',
       'https://images.unsplash.com/photo-1511707171634-5f897ff02560?auto=format&fit=crop&w=800&q=80',
@@ -124,7 +124,7 @@ export const PHONES_DATA: Phone[] = [
     price: 799,
     rating: 4.6,
     reviewsCount: 88,
-    image: 'https://images.unsplash.com/photo-1565849904461-04a58ad377e0?auto=format&fit=crop&w=800&q=80',
+    image:'/src/imags/galaxy-s24-highlights-kv.jpg',
     gallery: [
       'https://images.unsplash.com/photo-1565849904461-04a58ad377e0?auto=format&fit=crop&w=800&q=80',
     ],
@@ -161,7 +161,7 @@ export const PHONES_DATA: Phone[] = [
     originalPrice: 829,
     rating: 4.7,
     reviewsCount: 164,
-    image: 'https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=800&q=80',
+    image: '/src/imags/refurb-iphone-15-yellow-202412.jpeg',
     gallery: [
       'https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=800&q=80',
     ],
@@ -198,7 +198,7 @@ export const PHONES_DATA: Phone[] = [
     originalPrice: 899,
     rating: 4.8,
     reviewsCount: 76,
-    image: 'https://images.unsplash.com/photo-1585060544812-6b45742d762f?auto=format&fit=crop&w=800&q=80',
+    image: '/src/imags/images (2).jpeg',
     gallery: [
       'https://images.unsplash.com/photo-1585060544812-6b45742d762f?auto=format&fit=crop&w=800&q=80',
     ],
@@ -233,7 +233,7 @@ export const PHONES_DATA: Phone[] = [
     originalPrice: 1499,
     rating: 4.9,
     reviewsCount: 220,
-    image: 'https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=800&q=80',
+    image: '/src/imags/',
     gallery: [
       'https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=800&q=80',
       'https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=800&q=80',
@@ -271,7 +271,7 @@ export const PHONES_DATA: Phone[] = [
     originalPrice: 1919,
     rating: 4.6,
     reviewsCount: 65,
-    image: 'https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=800&q=80',
+    image: '/src/imags/images (4).jpeg',
     gallery: [
       'https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=800&q=80',
     ],
@@ -307,7 +307,7 @@ export const PHONES_DATA: Phone[] = [
     originalPrice: 549,
     rating: 4.7,
     reviewsCount: 94,
-    image: 'https://images.unsplash.com/photo-1511707171634-5f897ff02560?auto=format&fit=crop&w=800&q=80',
+    image: '/src/imags/images p.jpeg',
     gallery: [
       'https://images.unsplash.com/photo-1511707171634-5f897ff02560?auto=format&fit=crop&w=800&q=80',
     ],
@@ -344,7 +344,7 @@ export const PHONES_DATA: Phone[] = [
     originalPrice: 1199,
     rating: 4.8,
     reviewsCount: 52,
-    image: 'https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?auto=format&fit=crop&w=800&q=80',
+    image: '/src/imags/images (5).jpeg',
     gallery: [
       'https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?auto=format&fit=crop&w=800&q=80',
     ],

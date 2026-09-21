@@ -74,7 +74,7 @@ export const HeroBanner: React.FC = () => {
               {/* iPhone preview mockup */}
               <div className="absolute left-4 sm:left-6 w-36 sm:w-44 h-52 sm:h-60 rounded-3xl overflow-hidden shadow-2xl border-4 border-[#3c3935] -rotate-6 transform hover:rotate-0 transition-transform duration-500 bg-gray-900 z-10">
                 <img
-                  src="https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=400&q=80"
+                  src="/src/imags/Apple-iPhone-18-Pro-2up-Geo-260909_inline.jpg.large.jpg"
                   alt="iPhone 15 Pro Titanium"
                   className="w-full h-full object-cover object-center"
                 />
@@ -86,7 +86,7 @@ export const HeroBanner: React.FC = () => {
               {/* Samsung preview mockup */}
               <div className="absolute right-4 sm:right-6 w-36 sm:w-44 h-52 sm:h-60 rounded-3xl overflow-hidden shadow-2xl border-4 border-[#4a4742] rotate-6 transform hover:rotate-0 transition-transform duration-500 bg-gray-900 z-20">
                 <img
-                  src="https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?auto=format&fit=crop&w=400&q=80"
+                  src="/src/imags/galaxy-s26-ultra-features-colors-ambient-island-mo.jpg"
                   alt="Galaxy S24 Ultra Titanium"
                   className="w-full h-full object-cover object-center"
                 />
