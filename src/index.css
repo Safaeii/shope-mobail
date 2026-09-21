@@ -1,16 +1,25 @@
-
-
 @import "tailwindcss";
 
 @font-face {
-  font-family: "B Nazanin";
-  src: url("/src/font/B-NAZANIN.TTF") format("truetype");
+  font-family: "Ruwudu";
+  src: url("./fonts/Ruwudu-Regular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
+  font-display: swap;
 }
 
-
+@font-face {
+  font-family: "EduVICWANTHand";
+  src: url("./fonts/EduVICWANTHand-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
 
 body {
-  font-family: "B-NAZANIN", sans-serif;
+  font-family: "Ruwudu", sans-serif;
+}
+
+.font-english {
+  font-family: "EduVICWANTHand", sans-serif;
 }
